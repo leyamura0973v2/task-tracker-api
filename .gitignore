@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# PyCharm specific files
+.idea/
+
+# Python bytecode / Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables & secrets
+.env
+
+# Testing / Coverage files
+.pytest_cache/
+.coverage
+htmlcov/
